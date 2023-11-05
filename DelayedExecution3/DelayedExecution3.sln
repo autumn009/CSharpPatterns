@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34227.203
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelayedExecution3", "DelayedExecution3\DelayedExecution3.csproj", "{10A39C16-7D21-4CAC-8A8F-8B8A377759DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A39C16-7D21-4CAC-8A8F-8B8A377759DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A39C16-7D21-4CAC-8A8F-8B8A377759DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A39C16-7D21-4CAC-8A8F-8B8A377759DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A39C16-7D21-4CAC-8A8F-8B8A377759DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {282FE5DF-950A-443D-9770-EABEF30901B6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34227.203
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceToRunStaticConstructor1", "ForceToRunStaticConstructor1\ForceToRunStaticConstructor1.csproj", "{A003C481-0FD1-48F5-99C9-06B7B22AB696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A003C481-0FD1-48F5-99C9-06B7B22AB696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A003C481-0FD1-48F5-99C9-06B7B22AB696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A003C481-0FD1-48F5-99C9-06B7B22AB696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A003C481-0FD1-48F5-99C9-06B7B22AB696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF3B0901-405A-4569-9D9D-0DE84FFDC834}
+	EndGlobalSection
+EndGlobal

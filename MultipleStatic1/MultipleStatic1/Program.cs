@@ -7,4 +7,3 @@ static class Sample<T>
 {
     internal static int Value { get; set; }
 }
-```
